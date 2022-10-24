@@ -1,0 +1,17 @@
+{
+  "name": "resourceguru",
+  "version": "1.0.0",
+  "description": "Flatten an nessted array of arrays",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "tsc && node .\\dist\\flatten.tests"
+  },
+  "author": "Paul Connell",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.6"
+  }
+}
