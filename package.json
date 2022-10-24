@@ -1,7 +1,7 @@
 {
   "name": "resourceguru",
   "version": "1.0.0",
-  "description": "Flatten an nessted array of arrays",
+  "description": "Flatten an nested array of arrays",
   "main": "flatten.js",
   "scripts": {
     "test": "tsc && node .\\dist\\flatten.tests"
